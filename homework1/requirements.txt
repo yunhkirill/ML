@@ -1,0 +1,7 @@
+torch
+torchvision
+tqdm
+pytest
+pytest-cov
+wandb
+numpy
